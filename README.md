@@ -1,4 +1,4 @@
-### Currently: *Learning website development at TAFE (Technical College), building projects and working as a Junior Frontend Developer 🎉*
+### welcome 🐸
 
 <!--
 **kimwoodfield/kimwoodfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
