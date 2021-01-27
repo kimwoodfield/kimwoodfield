@@ -1,4 +1,4 @@
-### <center>Hey, I'm Kim 👋🏻</center>
+<h1 align="center">Hey, I'm Kim 👋🏻</h1>
 
 <!--
 **kimwoodfield/kimwoodfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
