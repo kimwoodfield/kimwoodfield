@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://woodfield.dev/">Website</a> •
-  <a href="https://www.linkedin.com/in/kim-woodfield/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/kim-woodfield/">LinkedIn</a>
 </p>
 
 ---
